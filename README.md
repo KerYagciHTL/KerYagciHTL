@@ -1,6 +1,8 @@
-![Coding](gif/giphy.gif)
-
-![Profile views](https://komarev.com/ghpvc/?username=KerYagciHTL&color=blue)
+<div align="center">
+  <img src="gif/giphy.gif" alt="ASCII Noise" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=KerYagciHTL&color=blue" alt="Profile views" />
+</div>
 
 # Hey there 👋
 
