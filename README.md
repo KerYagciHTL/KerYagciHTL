@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=KerYagciHTL&fontSize=90&fontAlignY=38&desc=Software%20Developer%20%7C%20HTL%20Leonding%20Student&descAlignY=60&descAlign=62)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Development+Student;C%2B%2B+%26+Modern+JS+Enthusiast;HTL+Leonding+Scholar;Austria+Based+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Development+Student;C%2B%2B+%26+Modern+C#+Programmer;HTL+Leonding+Student;Future+Softwaredeveloper" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -9,26 +9,50 @@
   <img src="https://img.shields.io/github/followers/KerYagciHTL?label=Followers&style=for-the-badge&color=2196F3" alt="Followers" />
 </p>
 
-## About Me
+## 💫 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/adamalston/adamalston/master/animation.gif">
+<div align="center">
+  
+  <!-- Profile Header with animated gradient -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=600&lines=Passionate+Software+Developer+from+Austria;HTL+Leonding+Student+%7C+Future+Tech+Leader;Building+the+Future+One+Line+of+Code+at+a+Time" alt="About Me Typing" />
 
-```typescript
-const kerYagci = {
-    location: "Austria 🇦🇹",
-    education: "HTL Leonding",
-    currentFocus: ["C++", "Modern JavaScript Frameworks"],
-    interests: ["Software Architecture", "Algorithm Optimization"],
-    goals: ["Master Systems Programming", "Contribute to Open Source"],
-    funFact: "Debugging is like detective work with code clues"
-};
-```
+</div>
 
-**Current Learning Path:**
-- Advanced C++ programming and memory management
-- Modern JavaScript frameworks and TypeScript
-- Software engineering principles and design patterns
-- Data structures and algorithmic problem solving
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>👨‍💻 Developer Profile</h3>
+        <p><strong>📍 Location:</strong> Austria</p>
+        <p><strong>� Education:</strong> HTL Leonding</p>
+        <p><strong>💼 Status:</strong> Software Development Student</p>
+        <p><strong>🔥 Current Focus:</strong> C++ & Modern JavaScript</p>
+        
+        <h3>🎯 Goals & Interests</h3>
+        <p>✨ Master Systems Programming</p>
+        <p>🌟 Contribute to Open Source</p>
+        <p>🚀 Software Architecture</p>
+        <p>⚡ Algorithm Optimization</p>
+        
+        <h3>📚 Currently Learning</h3>
+        <p>🔹 Advanced C++ & Memory Management</p>
+        <p>🔹 Modern JavaScript Frameworks & TypeScript</p>
+        <p>🔹 Software Engineering Principles</p>
+        <p>🔹 Data Structures & Algorithms</p>
+      </td>
+      <td width="50%">
+        <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+        <img src="https://github-readme-stats.vercel.app/api?username=KerYagciHTL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KerYagciHTL&theme=tokyonight" alt="Profile Summary" />
+</div>
 
 ## GitHub Statistics
 
@@ -69,3 +93,14 @@ const kerYagci = {
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
 </p>
+
+<div align="center">
+  <h3>Let's Connect and Build Something Amazing Together</h3>
+  <p>Open to collaboration opportunities and interesting projects</p>
+  
+  <a href="https://github.com/KerYagciHTL?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Projects-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
