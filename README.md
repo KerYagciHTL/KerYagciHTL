@@ -10,7 +10,7 @@
 I'm from Austria and currently a student at HTL Leonding.
 
 - 🔭 Focused on my education and building practical projects
-- 📚 Currently learning **C++** alongside modern frameworks
+- 📚 Currently learning **C++** alongside other modern **js** frameworks
 - ⚡ In my free time I enjoy exploring new languages, tools and frameworks
 
 ## 🛠 Languages & Tools
