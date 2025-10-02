@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=KerYagciHTL&fontSize=90&fontAlignY=38&desc=Software%20Developer%20%7C%20HTL%20Leonding%20Student&descAlignY=60&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0000FF,1E90FF,00BFFF&height=300&section=header&text=KerYagciHTL&fontSize=90&fontAlignY=38&desc=Software%20Developer%20%7C%20HTL%20Leonding%20Student&descAlignY=60&descAlign=62)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Development+Student;C%2B%2B+%26+Modern+C#+Programmer;HTL+Leonding+Student;Future+Softwaredeveloper" alt="Typing SVG" />
