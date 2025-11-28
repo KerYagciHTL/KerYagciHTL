@@ -12,7 +12,7 @@
 ## About Me
 
 **Current Learning Path:**
-- Advanced C++ programming and memory management
+- Kotlin
 - Modern JavaScript frameworks and TypeScript
 - Software engineering principles and design patterns
 - Data structures and algorithmic problem solving
