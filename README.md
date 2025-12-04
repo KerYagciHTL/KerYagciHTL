@@ -12,7 +12,7 @@
 ## About Me
 
 **Current Learning Path:**
-- Kotlin
+- Rust
 - Modern JavaScript frameworks and TypeScript
 - Software engineering principles and design patterns
 - Data structures and algorithmic problem solving
