@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KerYagciHTL&color=2196F3&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/KerYagciHTL?label=Followers&style=for-the-badge&color=2196F3" alt="Followers" />
+  <a href="https://yagci.cc"><img src="https://img.shields.io/badge/Website-yagci.cc-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website yagci.cc" /></a>
 </p>
 
 ## About Me
@@ -78,6 +79,9 @@ a team project, or a small client application.
 
   <a href="https://github.com/KerYagciHTL?tab=repositories">
     <img src="https://img.shields.io/badge/View%20My%20Projects-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
+  </a>
+  <a href="https://yagci.cc">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit My Website" />
   </a>
 </div>
 
